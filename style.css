@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(159, 202, 240);
+    padding: 80px 10px 20px 600px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+
+h1,b{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    text-align: center;
+    font-weight: lighter;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.qr{
+    background-color: rgb(239, 241, 240);
+    padding: 25px 2px 2px 10px;
+    border: 2px;
+    border-radius: 12px;
+   height: 500px;
+   width: 320px;
+
+}
+
